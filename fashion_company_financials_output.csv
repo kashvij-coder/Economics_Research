@@ -1,0 +1,251 @@
+company,fashion_index_score,ticker,yahoo_name,market_cap,revenue,ebitda,debt,currency,yahoo_resolution_note
+Reliance Trends,10,,,,,,,,no public Yahoo ticker found
+Costco,10,COST,Costco Wholesale Corporation,448843274718,286265000000,14063000000,8165000000,USD,mapped ticker
+Tommy Bahama,10,,,,,,,,no public Yahoo ticker found
+Saks Fifth Avenue,9,,,,,,,,no public Yahoo ticker found
+Foot Locker,9,,,,,,,,no public Yahoo ticker found
+Famous Footwear,9,,,,,,,,no public Yahoo ticker found
+Tod's,9,,,,,,,,no public Yahoo ticker found
+Li-Ning,9,2331.HK,Li Ning Company Limited,51569482653,29598417000,5694153000,2055154000,HKD,mapped ticker
+Hudson's Bay,9,,,,,,,,no public Yahoo ticker found
+LL Bean,8,,,,,,,,no public Yahoo ticker found
+Gerry Weber,8,,,,,,,,no public Yahoo ticker found
+Merrell,8,,,,,,,,no public Yahoo ticker found
+ALDI,8,,,,,,,,no public Yahoo ticker found
+Carhartt,7,,,,,,,,no public Yahoo ticker found
+Truworths,7,,,,,,,,no public Yahoo ticker found
+Triumph,7,,,,,,,,no public Yahoo ticker found
+Takko,7,,,,,,,,no public Yahoo ticker found
+Sports Direct,7,,,,,,,,no public Yahoo ticker found
+DSW,7,,,,,,,,no public Yahoo ticker found
+Beanpole,7,,,,,,,,no public Yahoo ticker found
+Bloomingdale's,7,,,,,,,,no public Yahoo ticker found
+Macy's,7,M,"Macy's, Inc.",5193463915,22621000000,1840000000,5204000000,USD,mapped ticker
+SHEIN,7,,,,,,,,no public Yahoo ticker found
+Skechers,7,,,,,,,,no public Yahoo ticker found
+Kmart,6,WES.AX,Wesfarmers Limited,83375163544,46286000000,6201000000,11168000000,AUD,mapped ticker
+Billabong,6,,,,,,,,no public Yahoo ticker found
+Quiksilver,6,,,,,,,,no public Yahoo ticker found
+Roxy,6,,,,,,,,no public Yahoo ticker found
+Ross Dress for Less,6,ROST,"Ross Stores, Inc.",73720382188,22750559000,3389490000,5212338000,USD,mapped ticker
+Express,6,,,,,,,,no public Yahoo ticker found
+Furla,5,,,,,,,,no public Yahoo ticker found
+Eddie Bauer,5,,,,,,,,no public Yahoo ticker found
+CAROLL,5,,,,,,,,no public Yahoo ticker found
+Buckle,4,,,,,,,,no public Yahoo ticker found
+Shimammura,4,,,,,,,,no public Yahoo ticker found
+LC Waikiki,4,,,,,,,,no public Yahoo ticker found
+Dillard's,3,DDS,"Dillard's, Inc.",8831765991,6563336000,916373000,557562000,USD,mapped ticker
+Aeropostale,3,,,,,,,,no public Yahoo ticker found
+Romwe,3,,,,,,,,no public Yahoo ticker found
+Longchamp,2,,,,,,,,no public Yahoo ticker found
+Pepe Jeans,2,,,,,,,,no public Yahoo ticker found
+Deichmann,2,,,,,,,,no public Yahoo ticker found
+Jockey,2,,,,,,,,no public Yahoo ticker found
+Dolce & Gabbana,2,,,,,,,,no public Yahoo ticker found
+REVOLVE,2,RVLV,"Revolve Group, Inc.",1786819974,1225682000,80656000,32455000,USD,mapped ticker
+Fabletics,2,,,,,,,,no public Yahoo ticker found
+BCBGMAXAZRIA,1,,,,,,,,no public Yahoo ticker found
+Reebok,1,,,,,,,,no public Yahoo ticker found
+Max,1,,,,,,,,no public Yahoo ticker found
+celio,1,,,,,,,,no public Yahoo ticker found
+DKNY,1,GIII,"G-III Apparel Group, Ltd.",1330650111,2957012000,140193000,284699000,USD,mapped ticker
+Nine West,1,,,,,,,,no public Yahoo ticker found
+Tory Burch,1,TPR,"Tapestry, Inc.",28899743191,7514800000,940500000,3943700000,USD,mapped ticker
+Splash,0,,,,,,,,no public Yahoo ticker found
+Fashion Nova,0,,,,,,,,no public Yahoo ticker found
+Max Mara,0,,,,,,,,no public Yahoo ticker found
+New Yorker,0,,,,,,,,no public Yahoo ticker found
+Tom Ford,0,,,,,,,,no public Yahoo ticker found
+ANTA,0,2020.HK,ANTA Sports Products Limited,224826041485,80219000000,28614000000,31764000000,HKD,mapped ticker
+Bosideng,0,3998.HK,Bosideng International Holdings Limited,49503525414,26025223000,5379038000,1935972000,CNY,mapped ticker
+Helian Home,0,,,,,,,,no public Yahoo ticker found
+Belle,0,,,,,,,,no public Yahoo ticker found
+Big Bazaar - ffb,0,,,,,,,,no public Yahoo ticker found
+Semir,0,002563.SZ,"Zhejiang Semir Garment Co., Ltd.",16326186369,15460194672,1409920916,481312997,CNY,mapped ticker
+Van Heusen,0,,,,,,,,no public Yahoo ticker found
+K-Way,0,,,,,,,,no public Yahoo ticker found
+KOOVS,0,,,,,,,,no public Yahoo ticker found
+Metersbonwe,0,,,,,,,,no public Yahoo ticker found
+Mexx,0,,,,,,,,no public Yahoo ticker found
+Savage X Fenty,0,,,,,,,,no public Yahoo ticker found
+Youngor,0,,,,,,,,no public Yahoo ticker found
+Reserved,20,,,,,,,,no public Yahoo ticker found
+Otto,20,,,,,,,,no public Yahoo ticker found
+Diesel,19,,,,,,,,no public Yahoo ticker found
+Victoria's Secret,19,VSCO,Victoria's Secret & Co.,4213252748,6553000000,516000000,2846000000,USD,mapped ticker
+Pimkie,18,,,,,,,,no public Yahoo ticker found
+Foschini,18,,,,,,,,no public Yahoo ticker found
+Mizuno,18,8022.T,Mizuno Corporation,253004584820,247230000000,27450000000,13526000000,JPY,mapped ticker
+Joe Fresh,18,,,,,,,,no public Yahoo ticker found
+Fanatics,18,,,,,,,,no public Yahoo ticker found
+Jil Sander,18,,,,,,,,no public Yahoo ticker found
+Monoprix,18,,,,,,,,no public Yahoo ticker found
+Valentino,18,,,,,,,,no public Yahoo ticker found
+The Warehouse,17,WHS.NZ,The Warehouse Group Limited,227182243,3091605000,160273000,,NZD,mapped ticker
+Clarks,17,,,,,,,,no public Yahoo ticker found
+Marni,17,,,,,,,,no public Yahoo ticker found
+The Children's Place,17,,,,,,,,no public Yahoo ticker found
+Kohl's,17,KSS,Kohl's Corporation,1645631193,15527000000,1324000000,6630000000,USD,mapped ticker
+KIK,17,,,,,,,,no public Yahoo ticker found
+United Arrows,17,7606.T,United Arrows Ltd.,67890648240,156358000000,8547000000,3900000000,JPY,mapped ticker
+Kiabi,16,,,,,,,,no public Yahoo ticker found
+Fossil,16,FOSL,"Fossil Group, Inc.",252095604,1004406000,-16471000,317042000,USD,mapped ticker
+Carolina Herrera,16,,,,,,,,no public Yahoo ticker found
+Canada Goose,16,GOOS,Canada Goose Holdings Inc.,1089034378,1459500000,207400000,753500000,USD,mapped ticker
+Fila,15,,,,,,,,no public Yahoo ticker found
+Burlington,14,BURL,"Burlington Stores, Inc.",19980026178,11566910000,1305030000,6005137000,USD,mapped ticker
+ALDO,14,,,,,,,,no public Yahoo ticker found
+Brunello Cucinelli,14,BC.MI,Brunello Cucinelli S.p.A.,5627680000,1407951000,419554000,1187356000,EUR,mapped ticker
+Chico's,14,,,,,,,,no public Yahoo ticker found
+TOPVALU COLLECTION,13,,,,,,,,no public Yahoo ticker found
+TJ Maxx,13,TJX,"The TJX Companies, Inc.",173581114866,60372000000,8620000000,13489000000,USD,mapped ticker
+Anthropologie,13,URBN,"Urban Outfitters, Inc.",5907344332,6165376000,730342000,1225566000,USD,mapped ticker
+Free People,13,URBN,"Urban Outfitters, Inc.",5907344332,6165376000,730342000,1225566000,USD,mapped ticker
+Urban Outfitters,13,URBN,"Urban Outfitters, Inc.",5907344332,6165376000,730342000,1225566000,USD,mapped ticker
+Steve Madden,13,SHOO,"Steven Madden, Ltd.",2738282346,2534109000,123460000,486138000,USD,mapped ticker
+La Redoute,13,,,,,,,,no public Yahoo ticker found
+Lands' End,12,LE,"Lands' End, Inc.",351369500,1335146000,74637000,245909000,USD,mapped ticker
+Kaufland,12,,,,,,,,no public Yahoo ticker found
+Ito-Yokado,11,3382.T,"Seven & i Holdings Co., Ltd.",4434957554331,10430268000000,1003945000000,4370155000000,JPY,mapped ticker
+MFB,11,,,,,,,,no public Yahoo ticker found
+Falabella,11,FALABELLA.SN,Falabella S.A.,13673203228050,13304390450000,3393105307000,2483611729000,CLP,mapped ticker
+Chanel,11,,,,,,,,no public Yahoo ticker found
+Helly Hansen,30,,,,,,,,no public Yahoo ticker found
+CELINE,30,MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",223114031867,80807000000,25850000000,36731000000,EUR,mapped ticker
+JD Sports,29,JD.L,JD Sports Fashion Plc,3243288585,12366000000,1820000000,3711000000,GBP,mapped ticker
+Matalan,29,,,,,,,,no public Yahoo ticker found
+Woolworths South Africa,29,,,,,,,,no public Yahoo ticker found
+Dior,29,CDI.PA,Christian Dior SE,76710578616,80807000000,25896000000,36746000000,EUR,mapped ticker
+Kathmandu,29,KMD.NZ,KMD Brands Limited,75933707,1012815000,43494000,374875000,NZD,mapped ticker
+Louis Vuitton,29,MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",223114031867,80807000000,25850000000,36731000000,EUR,mapped ticker
+Morrisons,29,,,,,,,,no public Yahoo ticker found
+Marc Jacobs,28,MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",223114031867,80807000000,25850000000,36731000000,EUR,mapped ticker
+Muji,28,,,,,,,,no public Yahoo ticker found
+Asda,28,,,,,,,,no public Yahoo ticker found
+Hermes,28,RMS.PA,Hermès International Société en commandite par actions,170148011435,16001000000,7756000000,2346000000,EUR,mapped ticker
+Under Armour,28,UAA,"Under Armour, Inc.",2638326982,4975792000,56505000,1688520000,USD,mapped ticker
+Dick's Sporting Goods,27,DKS,"DICK'S Sporting Goods, Inc.",20001259822,17215120000,1694866000,7746643000,USD,mapped ticker
+Very,27,,,,,,,,no public Yahoo ticker found
+Gymshark,27,,,,,,,,no public Yahoo ticker found
+Moncler,27,MONC.MI,Moncler S.p.A.,13916696892,3132128000,1266661000,1128458000,EUR,mapped ticker
+Nordstrom,26,,,,,,,,no public Yahoo ticker found
+Decathlon,26,,,,,,,,no public Yahoo ticker found
+Ted Baker,26,,,,,,,,no public Yahoo ticker found
+Amazon,26,AMZN,"Amazon.com, Inc.",2884935587599,742776000000,188438000000,209888000000,USD,mapped ticker
+Lidl,25,,,,,,,,no public Yahoo ticker found
+Paris,25,,,,,,,,no public Yahoo ticker found
+Desigual,25,,,,,,,,no public Yahoo ticker found
+Jack Wolfskin,25,,,,,,,,no public Yahoo ticker found
+Carter's,25,CRI,"Carter's, Inc.",1243138839,2898426000,203324000,1212122000,USD,mapped ticker
+boohoo,24,DEBS.L,boohoo group plc,270946135,701800000,-117300000,217200000,GBP,mapped ticker
+PrettyLittleThing,24,DEBS.L,boohoo group plc,270946135,701800000,-117300000,217200000,GBP,mapped ticker
+Salvatore Ferragamo,24,SFER.MI,Salvatore Ferragamo S.p.A.,1226007565,985908000,77451000,701294000,EUR,mapped ticker
+El Corte Ingles,24,,,,,,,,no public Yahoo ticker found
+HEMA,24,,,,,,,,no public Yahoo ticker found
+Carrefour,24,CA.PA,Carrefour SA,11994044655,84024000000,4672000000,5259000000,EUR,mapped ticker
+Versace,24,CPRI,Capri Holdings Limited,2339147409,4326000000,190000000,1311000000,USD,mapped ticker
+Michael Kors,23,CPRI,Capri Holdings Limited,2339147409,4326000000,190000000,1311000000,USD,mapped ticker
+Walmart,23,WMT,Walmart Inc.,1048982351774,713163000000,46471000000,67095000000,USD,mapped ticker
+Prisma,22,,,,,,,,no public Yahoo ticker found
+Disney,22,DIS,The Walt Disney Company,182608266241,95716000000,19170000000,46640000000,USD,mapped ticker
+Cotton On,22,,,,,,,,no public Yahoo ticker found
+Aritzia,22,ATZ.TO,Aritzia Inc.,16951938757,3410751000,729281000,1039107000,CAD,mapped ticker
+Sandro,22,,,,,,,,no public Yahoo ticker found
+REI,22,,,,,,,,no public Yahoo ticker found
+American Eagle,21,AEO,"American Eagle Outfitters, Inc.",2823468808,5547236000,550005000,1700323000,USD,mapped ticker
+Cortefiel,21,,,,,,,,no public Yahoo ticker found
+Fjallraven,40,,,,,,,,no public Yahoo ticker found
+Zalando,40,ZAL.DE,Zalando SE,5428991974,12346200000,836200000,1441600000,EUR,mapped ticker
+Patagonia,40,,,,,,,,no public Yahoo ticker found
+Primark,40,,,,,,,,no public Yahoo ticker found
+Big W,39,WOW.AX,Woolworths Group Limited,41717612406,70282000000,4101000000,17385000000,AUD,mapped ticker
+Armani,38,,,,,,,,no public Yahoo ticker found
+Burberry,38,BRBY.L,Burberry Group plc,4208840212,2407000000,454000000,1546000000,GBP,mapped ticker
+Marks & Spencer,38,MKS.L,Marks and Spencer Group plc,6837303994,15278100000,913700000,2944500000,GBP,mapped ticker
+Champion,38,,,,,,,,no public Yahoo ticker found
+Lacoste,38,,,,,,,,no public Yahoo ticker found
+Hanes,38,,,,,,,,no public Yahoo ticker found
+Bonprix,37,,,,,,,,no public Yahoo ticker found
+Target,37,TGT,Target Corporation,58538776475,104780000000,8346000000,20290000000,USD,mapped ticker
+Columbia Sportswear,37,COLM,Columbia Sportswear Company,3189651197,3397912000,288585000,477689000,USD,mapped ticker
+Next,36,NXT.L,NEXT plc,15005551347,6901300000,1624500000,1808700000,GBP,mapped ticker
+Brooks Sport,36,,,,,,,,no public Yahoo ticker found
+Dr. Martens,35,DOCS.L,Dr. Martens plc,599659642,785000000,125000000,397100000,GBP,mapped ticker
+Mammut,35,,,,,,,,no public Yahoo ticker found
+ALDI SOUTH,34,,,,,,,,no public Yahoo ticker found
+Miu Miu,34,,,,,,,,no public Yahoo ticker found
+Prada,34,1913.HK,Prada S.p.A.,88791192800,5717521000,2120396000,4817885000,EUR,mapped ticker
+Fruit of the Loom,34,,,,,,,,no public Yahoo ticker found
+Russell Athletic,34,,,,,,,,no public Yahoo ticker found
+Abercrombie & Fitch,33,ANF,Abercrombie & Fitch Co.,3782194903,5266292000,878168000,1168095000,USD,mapped ticker
+Hollister Co.,33,ANF,Abercrombie & Fitch Co.,3782194903,5266292000,878168000,1168095000,USD,mapped ticker
+Bally,33,,,,,,,,no public Yahoo ticker found
+Wrangler,33,,,,,,,,no public Yahoo ticker found
+Ermenegildo Zegna,33,ZGN,Ermenegildo Zegna N.V.,3336910949,1916947000,439924000,977778000,EUR,mapped ticker
+John Lewis,32,,,,,,,,no public Yahoo ticker found
+River Island,32,,,,,,,,no public Yahoo ticker found
+ALDI Nord,31,,,,,,,,no public Yahoo ticker found
+GUESS,31,,,,,,,,no public Yahoo ticker found
+Tom Tailor,50,,,,,,,,no public Yahoo ticker found
+ASOS,50,ASC.L,ASOS Plc,273995603,2294400000,64600000,729000000,GBP,mapped ticker
+Converse,50,NKE,"NIKE, Inc.",65751384264,46523000000,3598000000,11178000000,USD,mapped ticker
+Jordan,50,NKE,"NIKE, Inc.",65751384264,46523000000,3598000000,11178000000,USD,mapped ticker
+Nike,50,NKE,"NIKE, Inc.",65751384264,46523000000,3598000000,11178000000,USD,mapped ticker
+Bershka,50,ITX.MC,"Industria de Diseño Textil, S.A.",157544903125,39864173000,11660075000,5457000000,EUR,mapped ticker
+Massimo Dutti,50,ITX.MC,"Industria de Diseño Textil, S.A.",157544903125,39864173000,11660075000,5457000000,EUR,mapped ticker
+Pull&Bear,50,ITX.MC,"Industria de Diseño Textil, S.A.",157544903125,39864173000,11660075000,5457000000,EUR,mapped ticker
+Stradivarius,50,ITX.MC,"Industria de Diseño Textil, S.A.",157544903125,39864173000,11660075000,5457000000,EUR,mapped ticker
+Zara,50,ITX.MC,"Industria de Diseño Textil, S.A.",157544903125,39864173000,11660075000,5457000000,EUR,mapped ticker
+Tommy Hilfiger,50,PVH,PVH Corp.,4198168425,8950200000,517800000,4298900000,USD,mapped ticker
+G-Star RAW,49,,,,,,,,no public Yahoo ticker found
+Mango,49,,,,,,,,no public Yahoo ticker found
+Superdry,49,,,,,,,,no public Yahoo ticker found
+Banana Republic,48,GAP,"The Gap, Inc.",9016595913,15366000000,1721000000,5611000000,USD,mapped ticker
+Gap,48,GAP,"The Gap, Inc.",9016595913,15366000000,1721000000,5611000000,USD,mapped ticker
+Old Navy,48,GAP,"The Gap, Inc.",9016595913,15366000000,1721000000,5611000000,USD,mapped ticker
+Calvin Klein,48,PVH,PVH Corp.,4198168425,8950200000,517800000,4298900000,USD,mapped ticker
+Tesco,48,TSCO.L,Tesco PLC,30507884419,73712000000,5054000000,14967000000,GBP,mapped ticker
+Speedo,47,,,,,,,,no public Yahoo ticker found
+New Balance,46,,,,,,,,no public Yahoo ticker found
+ASICS,45,7936.T,ASICS Corporation,3076199211921,810916000000,169717000000,98529000000,JPY,mapped ticker
+Esprit,45,,,,,,,,no public Yahoo ticker found
+Lindex,44,,,,,,,,no public Yahoo ticker found
+Chloe,43,CFR.SW,Compagnie Financière Richemont SA,87309134237,21941000000,6609000000,14813000000,EUR,mapped ticker
+Tchibo,43,,,,,,,,no public Yahoo ticker found
+s.Oliver,43,,,,,,,,no public Yahoo ticker found
+New Look,42,,,,,,,,no public Yahoo ticker found
+COACH,42,TPR,"Tapestry, Inc.",28899743191,7514800000,940500000,3943700000,USD,mapped ticker
+Jack & Jones,41,,,,,,,,no public Yahoo ticker found
+Vero Moda,41,,,,,,,,no public Yahoo ticker found
+Kate Spade,41,TPR,"Tapestry, Inc.",28899743191,7514800000,940500000,3943700000,USD,mapped ticker
+Levi Strauss & Co,60,LEVI,Levi Strauss & Co.,8568804472,6497700000,949100000,2316600000,USD,mapped ticker
+Fendi,58,MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",223114031867,80807000000,25850000000,36731000000,EUR,mapped ticker
+UGG,57,DECK,Deckers Outdoor Corporation,14319913074,5374707000,1421533000,342882000,USD,mapped ticker
+Adidas,56,ADS.DE,adidas AG,26141233166,25250000000,3239000000,5952000000,EUR,mapped ticker
+Hugo Boss,55,BOSS.DE,Hugo Boss AG,2489413143,4269838000,788848000,1182029000,EUR,mapped ticker
+Ralph Lauren,54,RL,Ralph Lauren Corporation,21926894151,7833100000,1425000000,2858700000,USD,mapped ticker
+Zeeman,54,,,,,,,,no public Yahoo ticker found
+Gildan,54,GIL,Gildan Activewear Inc.,11316605760,4073508000,623444000,5011775000,USD,mapped ticker
+Lululemon,52,LULU,lululemon athletica inc.,15442344751,11102600000,2706843000,1798441000,USD,mapped ticker
+Sainsbury's,51,SBRY.L,J Sainsbury plc,7325006550,33647000000,2188000000,6608000000,GBP,mapped ticker
+Balenciaga,51,KER.PA,Kering SA,28527624660,14675000000,3120000000,18149000000,EUR,mapped ticker
+Bottega Veneta,51,KER.PA,Kering SA,28527624660,14675000000,3120000000,18149000000,EUR,mapped ticker
+SAINT LAURENT,51,KER.PA,Kering SA,28527624660,14675000000,3120000000,18149000000,EUR,mapped ticker
+GU,51,9983.T,"Fast Retailing Co., Ltd.",22365548721490,3665568000000,953158000000,548248000000,JPY,mapped ticker
+Uniqlo,51,9983.T,"Fast Retailing Co., Ltd.",22365548721490,3665568000000,953158000000,548248000000,JPY,mapped ticker
+C&A,68,,,,,,,,no public Yahoo ticker found
+Puma,66,PUM.DE,PUMA SE,3824487351,7296200000,65000000,2582300000,EUR,mapped ticker
+The North Face,66,VFC,V.F. Corporation,7437916150,9582944000,847219000,5338701000,USD,mapped ticker
+Timberland,66,VFC,V.F. Corporation,7437916150,9582944000,847219000,5338701000,USD,mapped ticker
+Vans,65,VFC,V.F. Corporation,7437916150,9582944000,847219000,5338701000,USD,mapped ticker
+Dressmann,65,,,,,,,,no public Yahoo ticker found
+Calzedonia,63,,,,,,,,no public Yahoo ticker found
+Intimissimi,63,,,,,,,,no public Yahoo ticker found
+Tezenis,63,,,,,,,,no public Yahoo ticker found
+Gucci,80,KER.PA,Kering SA,28527624660,14675000000,3120000000,18149000000,EUR,mapped ticker
+Kmart Australia,76,WES.AX,Wesfarmers Limited,83375163544,46286000000,6201000000,11168000000,AUD,mapped ticker
+Target Australia,76,WES.AX,Wesfarmers Limited,83375163544,46286000000,6201000000,11168000000,AUD,mapped ticker
+United Colors of Benetton,73,,,,,,,,no public Yahoo ticker found
+H&M,71,HM-B.ST,H & M Hennes & Mauritz AB (publ),262993436293,228285000000,39995000000,77547000000,SEK,mapped ticker
+OVS,83,OVS.MI,OVS S.p.A.,1230930620,,,1507834000,EUR,mapped ticker

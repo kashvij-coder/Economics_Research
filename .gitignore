@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+yahoo_finance_run.log
+crops/
