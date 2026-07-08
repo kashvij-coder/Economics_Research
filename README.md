@@ -11,6 +11,10 @@ Generated Fashion Transparency Index score work.
 - `fashion_valuation_analysis_summary.md`: generated valuation and geography summary.
 - `fashion_valuation_region_summary.csv`: generated region-level valuation summary.
 - `fashion_valuation_ticker_analysis.csv`: generated ticker-level valuation dataset.
+- `brand_tiers.py`: manual luxury / designer / mid-level / fast-fashion classification for a subset of brands, used by `stock_return_analysis.py`.
+- `stock_return_analysis.py`: follow-up analysis testing Fashion Transparency Index score against realized 1-year and 5-year stock returns, broken out by brand tier and by region.
+- `stock_return_analysis_summary.md`: generated returns, tier, and region summary.
+- `stock_return_analysis_output.csv`: generated ticker-level dataset with returns, tier, and region.
 
 Run the script with Python 3.11+:
 
@@ -25,3 +29,11 @@ Analyze valuation multiples with:
 ```bash
 python transparency_valuation_analysis.py
 ```
+
+Analyze stock returns, brand tier, and region with:
+
+```bash
+python stock_return_analysis.py
+```
+
+This fetches weekly share-price history per ticker from Yahoo Finance (same stdlib-only approach as `fashion_company_financials.py`), so it needs network access and takes a couple of minutes to run.

@@ -1,0 +1,79 @@
+ticker,brands,tier,region,score_avg,ret_1y_pct,ret_5y_pct,fetch_note
+002563.SZ,Semir,,China/HK,0.0,9.0,-47.1,ok
+1913.HK,Prada,Luxury,China/HK,34.0,-17.9,-25.2,ok
+2020.HK,ANTA,,China/HK,0.0,-22.3,-60.8,ok
+2331.HK,Li-Ning,,China/HK,9.0,-8.4,-83.8,ok
+3382.T,Ito-Yokado,,Japan,11.0,5.0,21.4,ok
+3998.HK,Bosideng,,China/HK,0.0,7.6,-11.7,ok
+7606.T,United Arrows,Mid-Level,Japan,17.0,18.2,21.3,ok
+7936.T,ASICS,Mid-Level,Japan,45.0,27.8,632.5,ok
+8022.T,Mizuno,Mid-Level,Japan,18.0,33.7,312.4,ok
+9983.T,GU; Uniqlo,Fast Fashion,Japan,51.0,96.6,227.9,ok
+ADS.DE,Adidas,Mid-Level,Europe ex-UK,56.0,-12.9,-43.7,ok
+AEO,American Eagle,Mid-Level,US-listed,21.0,64.3,-55.2,ok
+AMZN,Amazon,,US-listed,26.0,7.7,31.0,ok
+ANF,Abercrombie & Fitch; Hollister Co.,Mid-Level,US-listed,33.0,-7.1,94.6,ok
+ASC.L,ASOS,Fast Fashion,UK,50.0,-11.9,-93.8,ok
+ATZ.TO,Aritzia,Mid-Level,Canada,22.0,92.6,299.8,ok
+BC.MI,Brunello Cucinelli,Luxury,Europe ex-UK,14.0,-25.0,54.4,ok
+BOSS.DE,Hugo Boss,,Europe ex-UK,55.0,-8.9,-22.7,ok
+BRBY.L,Burberry,Luxury,UK,38.0,-19.8,-48.8,ok
+BURL,Burlington,Mid-Level,US-listed,14.0,19.6,-3.8,ok
+CA.PA,Carrefour,,Europe ex-UK,24.0,35.0,0.4,ok
+CDI.PA,Dior,Luxury,Europe ex-UK,29.0,0.5,-32.8,ok
+CFR.SW,Chloe,Designer,Europe ex-UK,43.0,27.5,63.4,ok
+COLM,Columbia Sportswear,Mid-Level,US-listed,37.0,5.1,-38.1,ok
+COST,Costco,,US-listed,10.0,0.2,131.1,ok
+CPRI,Versace; Michael Kors,,US-listed,23.5,-8.5,-67.3,ok
+CRI,Carter's,,US-listed,25.0,24.6,-63.7,ok
+DDS,Dillard's,Mid-Level,US-listed,3.0,11.6,180.7,ok
+DEBS.L,boohoo; PrettyLittleThing,Fast Fashion,UK,24.0,15.9,-92.6,ok
+DECK,UGG,Mid-Level,US-listed,57.0,0.3,57.3,ok
+DIS,Disney,,US-listed,22.0,-20.4,-45.4,ok
+DKS,Dick's Sporting Goods,,US-listed,27.0,2.7,112.5,ok
+DOCS.L,Dr. Martens,Mid-Level,UK,35.0,-11.3,-84.2,ok
+FALABELLA.SN,Falabella,,Latin America,11.0,21.8,88.2,ok
+FOSL,Fossil,Mid-Level,US-listed,16.0,157.9,-69.4,ok
+GAP,Banana Republic; Gap; Old Navy,Mid-Level,US-listed,48.0,-9.2,-43.3,ok
+GIII,DKNY,Designer,US-listed,1.0,46.4,5.2,ok
+GIL,Gildan,Mid-Level,US-listed,54.0,-2.9,43.5,ok
+GOOS,Canada Goose,Designer,US-listed,16.0,-32.8,-78.0,ok
+HM-B.ST,H&M,Fast Fashion,Europe ex-UK,71.0,15.1,-19.3,ok
+ITX.MC,Bershka; Massimo Dutti; Pull&Bear; Stradivarius; Zara,,Europe ex-UK,50.0,28.7,82.2,ok
+JD.L,JD Sports,Mid-Level,UK,29.0,-4.3,-57.3,ok
+KER.PA,Balenciaga; Bottega Veneta; SAINT LAURENT; Gucci,Luxury,Europe ex-UK,58.2,21.4,-67.2,ok
+KMD.NZ,Kathmandu,Mid-Level,Australia/NZ,29.0,-53.3,-92.2,ok
+KSS,Kohl's,Mid-Level,US-listed,17.0,65.8,-70.5,ok
+LE,Lands' End,Mid-Level,US-listed,12.0,-2.5,-71.0,ok
+LEVI,Levi Strauss & Co,Mid-Level,US-listed,60.0,16.6,-14.1,ok
+LULU,Lululemon,Mid-Level,US-listed,52.0,-50.6,-69.9,ok
+M,Macy's,Mid-Level,US-listed,7.0,89.9,21.5,ok
+MC.PA,CELINE; Louis Vuitton; Marc Jacobs; Fendi,,Europe ex-UK,36.2,2.6,-26.8,ok
+MKS.L,Marks & Spencer,Mid-Level,UK,38.0,9.6,152.8,ok
+MONC.MI,Moncler,Luxury,Europe ex-UK,27.0,-0.6,-11.1,ok
+NKE,Converse; Jordan; Nike,Mid-Level,US-listed,50.0,-40.8,-73.4,ok
+NXT.L,Next,Mid-Level,UK,36.0,16.1,82.0,ok
+OVS.MI,OVS,Fast Fashion,Europe ex-UK,83.0,68.5,292.6,ok
+PUM.DE,Puma,Mid-Level,Europe ex-UK,66.0,26.0,-73.2,ok
+PVH,Tommy Hilfiger; Calvin Klein,Mid-Level,US-listed,49.0,6.0,-30.0,ok
+RL,Ralph Lauren,Mid-Level,US-listed,54.0,31.4,226.8,ok
+RMS.PA,Hermes,Luxury,Europe ex-UK,28.0,-33.7,27.1,ok
+ROST,Ross Dress for Less,Mid-Level,US-listed,6.0,67.6,74.5,ok
+RVLV,REVOLVE,Fast Fashion,US-listed,2.0,3.7,-68.7,ok
+SBRY.L,Sainsbury's,,UK,51.0,16.9,19.1,ok
+SFER.MI,Salvatore Ferragamo,Luxury,Europe ex-UK,24.0,95.9,-42.7,ok
+SHOO,Steve Madden,Mid-Level,US-listed,13.0,47.4,-8.1,ok
+TGT,Target,,US-listed,37.0,28.0,-46.7,ok
+TJX,TJ Maxx,Mid-Level,US-listed,13.0,25.1,123.5,ok
+TPR,Tory Burch; COACH; Kate Spade,Designer,US-listed,28.0,35.6,234.6,ok
+TSCO.L,Tesco,,UK,48.0,13.5,98.7,ok
+UAA,Under Armour,Mid-Level,US-listed,28.0,-5.7,-69.7,ok
+URBN,Anthropologie; Free People; Urban Outfitters,Mid-Level,US-listed,13.0,-5.7,71.3,ok
+VFC,The North Face; Timberland; Vans,Mid-Level,US-listed,65.7,30.7,-80.7,ok
+VSCO,Victoria's Secret,,US-listed,19.0,272.9,82.0,ok
+WES.AX,Kmart; Kmart Australia; Target Australia,,Australia/NZ,52.7,6.6,55.5,ok
+WHS.NZ,The Warehouse,Fast Fashion,Australia/NZ,17.0,-27.2,-82.8,ok
+WMT,Walmart,,US-listed,23.0,19.0,141.8,ok
+WOW.AX,Big W,,Australia/NZ,39.0,26.6,4.8,ok
+ZAL.DE,Zalando,Fast Fashion,Europe ex-UK,40.0,-5.8,-74.2,ok
+ZGN,Ermenegildo Zegna,Luxury,Other/EUR,33.0,48.0,11.3,ok
